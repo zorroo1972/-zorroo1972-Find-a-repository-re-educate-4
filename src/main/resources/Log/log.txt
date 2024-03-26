@@ -1,0 +1,11 @@
+Tue Mar 26 18:02:16 MSK 2024 Параметры - [Ljava.lang.Object;@119cbf96 Метод - getTitle, класса - ru.spring.FileReader с результатом выполнения - ru.spring.ModelTitle@71329995
+Tue Mar 26 18:02:16 MSK 2024 Параметры - [Ljava.lang.Object;@78fb9a67 Метод - accept, класса - ru.spring.FillerDB
+Tue Mar 26 18:02:16 MSK 2024 Параметры - [Ljava.lang.Object;@21aa6d6c Метод - accept, класса - ru.spring.FillerDB
+Tue Mar 26 18:02:16 MSK 2024 Параметры - [Ljava.lang.Object;@2f9a01c1 Метод - accept, класса - ru.spring.FillerDB
+Tue Mar 26 18:02:16 MSK 2024 Параметры - [Ljava.lang.Object;@54227100 Метод - accept, класса - ru.spring.FillerDB
+Tue Mar 26 18:02:16 MSK 2024 Параметры - [Ljava.lang.Object;@1433046b Метод - accept, класса - ru.spring.FillerDB
+Tue Mar 26 18:02:16 MSK 2024 Параметры - [Ljava.lang.Object;@3f446bef Метод - getTitle, класса - ru.spring.FileReader с результатом выполнения - ru.spring.ModelTitle@7829b776
+Tue Mar 26 18:02:16 MSK 2024 Параметры - [Ljava.lang.Object;@61bcd567 Метод - accept, класса - ru.spring.FillerDB
+Tue Mar 26 18:02:16 MSK 2024 Параметры - [Ljava.lang.Object;@458342d3 Метод - accept, класса - ru.spring.FillerDB
+Tue Mar 26 18:02:16 MSK 2024 Параметры - [Ljava.lang.Object;@1252b961 Метод - accept, класса - ru.spring.FillerDB
+Tue Mar 26 18:02:16 MSK 2024 Параметры - [Ljava.lang.Objec
